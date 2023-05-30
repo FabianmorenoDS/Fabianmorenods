@@ -13,8 +13,8 @@ I have experience in innovative projects, such as leading the implementation of 
 As a leader, I understand the importance of asking the right questions and focusing on business objectives and customer needs. I am an effective problem solver, with leadership skills and a focus on improving operational strategies, product development, and sales.
 
 ## Summary of Experience
-- 3 years of experience in data analysis
-- 5 years of experience in operations management and product development
+- 3+ years of experience in data analysis
+- 5+ years of experience in operations management and product development
 - 2 years of experience as a Product Owner
 
 ## Skills
