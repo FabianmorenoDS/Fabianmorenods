@@ -1,5 +1,3 @@
-¡Claro! Aquí está el resumen con las habilidades divididas en dos columnas:
-
 # COO and Product Development Manager (Machine Learning Engineer)
 
 **Hello everyone! 👋**  
